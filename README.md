@@ -8,7 +8,7 @@
  - Agradecimientos
 
 ## Descripción del proyecto
-Este es un proyecto desarrollado dentro del marco del curso "Principiante en programación", dictado por la escuela ALURA en convenio con el programa ONE <em>(Oracle Next Eduction)</em>.
+Este es un proyecto desarrollado dentro del marco del curso "Principiante en programación", dictado por la escuela ALURA en convenio con el programa ONE <em>(Oracle Next Education)</em>.
 <br>Consiste en un desafío/challenge donde se nos requería la creación de una aplicación web capaz de encriptar y desencriptar texto, en base a ciertos parámetros dados por los profesores del curso.
 
 ## ¿Cuál es su función?
@@ -21,7 +21,7 @@ Se creó utilizando los lenguajes HTML, CSS y JavaScript, los cuales han sido tr
 pero la práctica es el mejor maestro para llegar hasta el lugar donde queremos llegar.
 
 ## Agradecimientos
-Agradezco la oportunidad que tanto AURA como ORACLE están brindando para que muchos podamos acceder a este mundo maravilloso de la programación. A cada uno de los profesores, tanto los que dictan las 
+Agradezco la oportunidad que tanto ALURA como ORACLE están brindando para que muchos podamos acceder a este mundo maravilloso de la programación. A cada uno de los profesores, tanto los que dictan las 
 clases como los que han desarrollado este challenge. Esta es una oportunidad excelente de poder superarse y lograr grandes cosas, si así uno se lo propone.
 
 --- 
