@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter&display=swap"
+      rel="stylesheet"
+    />
+    <title>Encriptador de textos</title>
+  </head>
+
+  <body>
+    <main>
+      <div class="contenedor-logo">
+        <a target="_blank" href="https://www.aluracursos.com/"
+          ><img class="logo" src="img/Logo.png"
+        /></a>
+      </div>
+
+      <section class="section1">
+        <div class="contenedor-caja-texto">
+          <textarea
+            class="caja-texto"
+            placeholder="Ingrese el texto aquí"
+          ></textarea>
+        </div>
+        <div class="alertamin">
+          <p>Solo letras minúsculas y sin acentos</p>
+        </div>
+
+        <div class="contenedor-botones">
+          <input type="button" class="boton" id="encriptar" value="Encriptar" />
+          <input
+            type="button"
+            class="boton"
+            id="desencriptar"
+            value="Desencriptar"
+          />
+        </div>
+      </section>
+
+      <section class="section2">
+        <div class="contenedor-muneco">
+          <img src="img/Muñeco.png" />
+        </div>
+
+        <div class="mensaje">
+          <h3>
+            Ningún mensaje fue <br />
+            encontrado.
+          </h3>
+          <p>
+            Ingresa el texto que deseas encriptar <br />
+            o desencriptar.
+          </p>
+        </div>
+
+        <div class="contenedor-resultado">
+          <p class="texto-resultado"></p>
+        </div>
+
+        <div class="contenedor-copiar">
+          <button class="boton" id="copiar" style="display: none">
+            Copiar
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="redes">
+        <a target="_blank" href="https://github.com/Mati-sr"
+          ><img src="img/github-logo.png" alt="GitHub"
+        /></a>
+
+        <a target="_blank" href="https://www.linkedin.com/in/matias-srnec/"
+          ><img
+            src="img/vecteezy_logo-linkedin-png-icone-linkedin-png-transparent_18930587.png"
+            alt="LinkedIN"
+        /></a>
+      </div>
+      <p>&copy; 2024 - MatiSr - dev.</p>
+    </footer>
+  </body>
+
+  <script src="script.js"></script>
+</html>
